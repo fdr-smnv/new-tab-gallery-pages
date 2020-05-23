@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a101da9b-4a08-4e0c-a2fa-bd1cb69d9497" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/generate-output.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/generate-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
+    </list>
+    <list id="2f883870-829d-4ce3-ae9d-80108dadae68" name="" comment="" />
+    <list id="13171252-81dc-48a8-bbe5-62a2b850ffd0" name="a" comment="" />
+    <list id="d20db61e-3b56-470c-87aa-2f3b87108b92" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5798a73476daafcd4e8b8c797b5f6b1957ee1749" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1589228450" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bm3ZyP1nY2SELKBvNe1eNdVx9k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+      <recent name="$PROJECT_DIR$/src/scripts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a101da9b-4a08-4e0c-a2fa-bd1cb69d9497" name="Default Changelist" comment="" />
+      <changelist id="d20db61e-3b56-470c-87aa-2f3b87108b92" name="New changelist" comment="" />
+      <changelist id="13171252-81dc-48a8-bbe5-62a2b850ffd0" name="a" comment="" />
+      <created>1589223500606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589223500606</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1589227949343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589227949343</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1589228612719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589228612719</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1589228638656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589228638656</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aa">
+      <created>1589228705225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589228705225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="355" width="552" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589229156593">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="679" y="355" width="552" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1589229156593" />
+    <state x="525" y="119" width="860" height="871" key="CommitChangelistDialog2" timestamp="1589228704438">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="119" width="860" height="871" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589228704438" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1589229223998">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589229223998" />
+    <state x="743" y="311" width="424" height="486" key="FileChooserDialogImpl" timestamp="1589229454288">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="486" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589229454288" />
+    <state x="793" y="425" width="324" height="259" key="VCS.EditChangelistDialog" timestamp="1589228564440">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="793" y="425" width="324" height="259" key="VCS.EditChangelistDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589228564440" />
+    <state x="731" y="468" width="458" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589224252847">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="731" y="468" width="458" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589224252847" />
+    <state x="623" y="259" key="search.everywhere.popup" timestamp="1589223680894">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1589223680894" />
+    <state x="285" y="302" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1589228653949">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="285" y="302" key="vcs.ApplyPatchDifferentiatedDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589228653949" />
+  </component>
+</project>

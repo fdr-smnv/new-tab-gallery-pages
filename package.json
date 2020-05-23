@@ -1,0 +1,15 @@
+{
+  "name": "new-tab-gallery-static-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-output": "node src/scripts/generate-output.js",
+    "generate-search": "node src/scripts/generate-search.js"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
